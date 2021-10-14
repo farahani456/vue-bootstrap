@@ -1,5 +1,5 @@
 # vue-bootstrap
-
+this is just a testing one for vue + bootstrap
 ## Project setup
 ```
 npm install
